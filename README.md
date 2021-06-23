@@ -9,7 +9,7 @@ preprocess_cos_s_map.m: preprocessing data, you need to select the necessary pre
 initial_est_cos_s_map.m: initial estimation of pure spectra. alsOptimization_cos_s_map.m: 
 ALS optimization with a constraint of the initial estimation to refine the pure spectra and the concnentrations.
 
-Before running the program, you need to add the path /Program/Main and /Program/
+Before running the program, you need to add the path /cos_s_map_mcr/sub
 Two sample data are included; mixture of absorption spectra and XRD patterns described in the paper in UV_Vis and XRD folders. 
 You may need to install some tool boxes to run the program.
 
